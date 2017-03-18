@@ -3,7 +3,7 @@ pam_rps
 
 ## Instructions d'installation sous Centos 6.X+
 
-###Prérequis
+### Prérequis
 
 Avoir installé les prérequis de la page https://github.com/humboldtux/check_user
 
